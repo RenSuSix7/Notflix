@@ -1,0 +1,95 @@
+body#adventuretime {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('adventuretimebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#ben10 {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('ben10bg.avif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#kick {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('kickbuttowskibg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#tawog {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('tawogbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#regularshow {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('regularshowbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#kidsnextdoor {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('kidsnextdoorbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#stevenuniverse {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('stevenuniversebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#phineasandferb {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('phineasandferbbg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}

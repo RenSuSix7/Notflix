@@ -1,0 +1,47 @@
+html, body {
+    background-color: black;
+    color: white    ;
+    font-family: 'Lucida Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+
+p {
+    color: white    ;
+    font-family: 'Lucida Sans', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    font-size: 40;
+}
+.cartoons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+}
+
+.BackButton {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+
+.Desc {
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    color: white    ;
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 55px;
+}
