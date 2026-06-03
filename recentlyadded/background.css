@@ -1,0 +1,96 @@
+body#bttf {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('bttfbg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#httyd {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('httydbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#jumpstreet {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url(21jumpstreetbg.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#deadpoolandwolverine {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('deadpoolandwolverinebg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#theforceawakens {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('theforceawakensbg.jfif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#jurassicworld {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('jurassicworldbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#antman {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('antmanbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#scottpilgrim {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('scottpilgrimbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
