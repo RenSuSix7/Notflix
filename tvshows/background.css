@@ -1,0 +1,191 @@
+body#lucifer {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('luciferbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#theboys {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('theboysbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#strangerthings {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('strangerthingsbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#theflash {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('theflashbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#doctor {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('doctorbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#moneyheist {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('moneyheistbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#you {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('youbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#daredevil {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('daredevilbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#onepiece {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('onepiecebg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#queens {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('queensbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#wednesday {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('wednesdaybg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#thirteen {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('thirteenbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#umbrella {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('umbrellabg.avif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#peakyblinders {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('peakyblindersbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#bettercall {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('bettercallbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#breakingbad {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('breakingbadbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
