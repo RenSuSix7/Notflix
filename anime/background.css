@@ -1,0 +1,191 @@
+body#tokyoghoul {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('tokyoghoulbg.avif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#onepiece {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('onepiecebg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#jjk {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('jjk.bg.avif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#tokyorevengers {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('tokyorevengersbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#windbreaker {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('windbreakerbg.avif') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#initiald {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('initialdbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#hajime {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('hajimebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#slamdunk {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('slamdunkbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#chainsawman {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('chainsawmanbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#mha {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('mhabg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#deathnote {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('deathnotebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#yourlie {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('yourliebg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#weathering {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('weatheringbg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#naruto {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('narutobg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#attackontitan {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('attackontitanbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#blackclover {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('blackcoverbg.png') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
