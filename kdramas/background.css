@@ -1,0 +1,191 @@
+body#sweethome {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('sweethomebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#movetoheaven {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('movetoheavenbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#twinkling {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('twinklingbg.png') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#nighthascome {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('nighthascomebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#unlocked {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('unlockedbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#weakhero {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('weakherobg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#bloodhounds {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('bloodhoundsbg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#studygroup {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('studygroupbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#revengeofothers {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('revengebg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#gangster {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('gangsterbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#one {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('onebg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#bravecitizen {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('bravecitizenbg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#uncanny {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('uncannybg.webp') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#allofus {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('allofusbg.png') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#loveuntangled {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('loveuntangledbg.png') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
+
+body#hierarchy {
+    background-color: black !important;
+    min-height: 100vh !important;
+    display: block !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0vh, rgba(0, 0, 0, 1) 100vh), url('hierarchybg.jpg') !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-position: center top !important;
+    min-height: 100vh !important;
+}
